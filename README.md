@@ -1,5 +1,5 @@
 # banking
-Banking system written in Scana
+Banking system written in Scala
 
 ## Main class 
 
