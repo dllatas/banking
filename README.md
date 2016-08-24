@@ -7,9 +7,9 @@ Banking system written in Scana
 scalac bank.scala
 
 #### Run each task
-scala Balance
-scala TimeInterval
-scala RemoveTransaction
+- scala Balance
+- scala TimeInterval
+- scala RemoveTransaction
 
 ## Test
 
